@@ -268,8 +268,10 @@ svg.header-icon:hover {
     letter-spacing: 0.15rem;
 }
 
-.form-control {
+.form-control, .form-control:focus {
     border-radius: 0.5rem;
+    background-color: #e7dfdd;
+    color: #0e0b16;
 }
 
 #contact-textarea {
