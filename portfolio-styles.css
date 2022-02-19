@@ -236,6 +236,7 @@ svg.header-icon:hover {
 .card-text {
     color: #0e0b16;
     font-family: 'Roboto Condensed', sans-serif;
+    padding-top: 0;
 }
 
 .card-buttons {
@@ -260,7 +261,7 @@ svg.header-icon:hover {
 .project-image, .project-video {
     border: 0.1rem solid #0e0b16;
     max-width: fit-content;
-    max-height: 14rem;
+    max-height: 50%;
 }
 
 .contact-bg {
