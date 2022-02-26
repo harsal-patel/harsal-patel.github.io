@@ -214,6 +214,7 @@ svg.header-icon:hover {
 
 .card {
     background-color: rgba(231, 223, 221, 0.85);
+    border: 0.15rem solid #0e0b16;
     height: 30rem;
     max-width: 25rem;
     padding: 0.5rem;
