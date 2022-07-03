@@ -284,6 +284,7 @@ svg.header-icon:hover {
     width: max-content;
     height: max-content;
     padding: 0;
+    max-width: 98%;
 }
 
 .contact-text {
